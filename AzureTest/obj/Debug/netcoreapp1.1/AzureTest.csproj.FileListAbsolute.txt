@@ -1,0 +1,9 @@
+D:\Projects\Test\AzureTest\AzureTest\bin\Debug\netcoreapp1.1\AzureTest.deps.json
+D:\Projects\Test\AzureTest\AzureTest\bin\Debug\netcoreapp1.1\AzureTest.runtimeconfig.json
+D:\Projects\Test\AzureTest\AzureTest\bin\Debug\netcoreapp1.1\AzureTest.runtimeconfig.dev.json
+D:\Projects\Test\AzureTest\AzureTest\bin\Debug\netcoreapp1.1\AzureTest.dll
+D:\Projects\Test\AzureTest\AzureTest\bin\Debug\netcoreapp1.1\AzureTest.pdb
+D:\Projects\Test\AzureTest\AzureTest\obj\Debug\netcoreapp1.1\AzureTest.csprojResolveAssemblyReference.cache
+D:\Projects\Test\AzureTest\AzureTest\obj\Debug\netcoreapp1.1\AzureTest.AssemblyInfo.cs
+D:\Projects\Test\AzureTest\AzureTest\obj\Debug\netcoreapp1.1\AzureTest.dll
+D:\Projects\Test\AzureTest\AzureTest\obj\Debug\netcoreapp1.1\AzureTest.pdb
